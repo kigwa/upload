@@ -1,20 +1,119 @@
 <!doctype html>
+<html>
 <head>
-<title>FORMS</title>
+<meta charste="utf-8">
+<title>FAKE WEBSITE</title>
 </head>
 <style>
+* {
+    box-sizing: border-box;
+    }
+body {
+      font-family: Arial;
+      background: pink;
+      colour: grey;
+      margin: 0px;
+      padding: 0px;
+      border: double;
+      }
+.header {
+        text-align: left;
+        margin: 0px;
+        padding: 0px;
+        }
+.headlines {
+           overflow: hidden;
+           background-color: maroon;
+          }
+.headlines a:hover {
+                    background: yellow;
+                    color: #aaa;
+                    }
+.top {
+     display: flex;
+     flex-direction: row;
+     justify-content: right;
+     margin: 0px;
+     padding: 0px;
+     }
+.leftcolumn {
+              float: left;
+              width: 70%;
+              margin: 20px;
+              }
+.rightcolumn {
+               float: right;
+               color: purple;
+               margin: 0px;
+               padding: 0px;
+               }
+.fakeimg {
+          background-color: #ddd;
+          margin: 0px;
+          width: 10%;
+          }
+.footer {
+        padding: 0px;
+        margin-top: 0px;
+        background: #ddd;
+        text-align: left;
+        }
 </style>
 <body>
-<form method="post">
-
-Who is your favourite beatle?
-<input type="radio" name="beatle" value="john" />john
-<input type="radio" name="beatle" value="kelvin" />kelvin
-<input type="radio" name="beatle" value="mercy" />mercy
-<br/>
-<input type="submit" value="submit">
-
-</form>
+<div class="header">
+    <h2><u> My Web </u></h2>
+    <p>Happy New Year Fellow Country Men.</p>
+</div>
+<div class="top">
+    <a href="news.asp">Images</a>
+    <a href="#" style="float:left"></a>
+</div>
+<div class="headlines">
+    <a href="#">Greetings</a>
+    <a href="#">Activity</a>
+    <a href="#">Goals</a>
+    <a href="#">Objecives</a> 
+    <a href="#" style="float:right"></a>
+</div>
+<div class="column">
+    <div class="left column">
+        <div class="card">
+        <h2><u> HEADING </u></h2>
+        <h5>Title desription,2 <sup> nd </sup> January 2019.</h5>
+        <div class="fakeimg" style="height:100px; width: 150px;">Image</div>
+        <p>The picture on the display thats is how our logo will look like once its has been launched by the end of this week by the General Manager and Board of Directors.Any comment or are much wellcome via our website or call numbers.</p>
+    </div>
+</div>
+<div class="right column">
+    <div class="card">
+    <h3><u> About us </u></h3>
+    <div class="fakeimg" style="height:50px; width: 75px;">Image</div>
+    <p>Our previous logo used to be like,now its about transition thats why we have desided to change the company logo.</p>
+</div>
+<div class="card">
+    <h6><u> Popular post </u></h6>
+    <div class="fakeimg"><p>Image</p></div>
+    <div class="fakeimg"><p>Image</p></div>
+</div>
+<div class="card">
+    <h4><u> Follow us </u></h4>
+    <p>To all of our clients we are advising them always to follow us on;
+        <ol start="1">
+            <li>Twitter:Jomkagency@237.</li>
+            <li>Facebook:Jomkagency page.</li>
+            <li>Snapchat:JomkAgency 1.</li>
+            <li>Instagram:Jomkagency 001.</li>
+        </ol>
+    </div>
+</div>
+<div class="footer">
+    <h5><u> Remarks </u></h5>
+    <p>Thanks for your service</p>
+    <div id="copyright">By <a href="http://www.Jomkagency.com" target="_blank">Jomkagency</a>
+        </div>
+            copyright &copy: 2019.
+        <i> <strong> <p>All Rights RESERVED</i> </strong> </p>
+</div>
 </body>
-</html>
+<html>
 
