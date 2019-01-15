@@ -1,0 +1,90 @@
+<!doctype html>
+<head>
+<title>web</title>
+</head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.* {
+   box-sizing: border-box;
+   }
+.header {
+        text-align: centre;
+        padding: 0px;
+        margin: 0px;
+        }
+body {
+        background-color: pink;
+        padding: 10px;
+        margin: 0px;
+        border: 15px solid green;
+        width: 1300px;
+        }
+.topnav {
+        overflow: hidden;
+        background-color: grey;
+        }
+.topnav a {
+            display: line;
+            text-decoration: none
+            color: pink;
+            text-align: centre;
+            padding: 14px 16px;
+           }
+.topnav a:hover {
+                 background-color: maroon;
+                 color: pink;
+                }
+.column main {
+              display: line;
+              text-decoration: none;
+              }
+.column tenant {
+                display: block;
+                padding: 0px;
+                margin: 0px;
+                }
+.form {
+        overflow: hidden;
+        }
+</style>
+<body>
+<div class="header">
+    <h3> <u> JOMKA AGENCY </u></h3>
+    <p>The Leading agent in real estate and property management.</p>
+</div>
+<div class="topnav">
+        <a href="#">New Tetant</a>
+        <a href="#">Vacant Rooms</a>
+        <a href="#">Chargeable Rent</a>
+</div>
+<div class="column main">
+            <h5> <u> <b> MAIN CONTENT </u> </b> </h5>
+            <p>Jomka Agency is a Real Estate and Property Management Agent,who are located in Thika Town Nellion center 2<sup>nd</sup> Floor Opposite Thika Stadium.</p>
+<div class="column tenants">
+    <h6> <u> <b> NEW TENANTS </u> </b> </h6>
+    <p>Once a new tenants wants to move in,He/She will be required to pay.</p>
+        <ol start="1">
+            <li>House rent </li>
+            <li>Deposit</li>
+            <li>Electricity deposit</li>
+            <li>Water deposit</li>
+        </ol>
+</div>
+<div class="form">
+    <p>Also tenants will be required to fill in a form for personal claliffication.</p>
+        <input type="radio" name="beatle" value="male" />male
+        <input type="radio" name="beatle" value="female" />female
+        <input type="radio" name="beatle" value="others" />others
+                <br/><br/>
+                <input type="submit" value="submit" />
+                <br/><br/><br/>
+</div>
+<div class="footer">
+    <div id="copyright">By <a href="http://www.kigwa.com" target="_blank">kigwa</a></div>
+ 			Copyright &copy: 2018.
+            <p> <i> <strong> All rights RESERVED </i> </strong> </p>
+</div>
+
+</body>
+</html>
