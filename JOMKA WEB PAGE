@@ -1,0 +1,98 @@
+<!doctype html>
+<head><u>JOMKA AGENCY</u>
+<title>web</title>
+</head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+        background-color: pink;
+        padding: 10px;
+        margin: 0px;
+       }
+.header {
+        text-align: centre;
+        padding: 0px;
+        margin: 0px;
+        }
+
+</style>
+<body>
+<h2><u>wellcome to Jomka Agency website.</u></h2>
+    <p>Always there for you.</p>
+
+<form id="responsive-menu" action="#" method="post">
+    <select>
+            <option value="">Navigation.</option>
+            <option value="index.html">Home.</option>
+            <option value="about.html">About.</option>
+            <option value="contact.html">Contact.</option>
+    </select>
+</form>
+    <div class="container">
+        <header>
+            <h3><u>Home</u></h3>
+            <p>Jomka is a real estate company which deals with management of building either commercials , residential or both.</p>
+        </header>
+    </div>
+<div>
+
+<div class="container">
+    <header>
+    <h4><u>About</u></h4>
+    <p><b>Our Vission</b></p>
+        To maintain a condusive environment for tenants and landlors.
+    <p><b>Our Mission</b></p>
+        To set our mark on the high side of the business environment.
+    <p><b>Our Service</b></p>
+        Our service will include;
+            <ol>
+                <li>Operating Monthly Statements.
+                <li>Screening of tenants.
+                <li>Rent collection.
+                <li>In-house maintenance.
+                <li>Periodic rental review.
+                <li>Free advertisement.
+                <li>Buying and selling of plots.
+                <li>General Commission Agents.
+                </li>
+            </ol>
+<p>Jomka was incorporated in the year of 2017 April by its founding Directors;
+    <ul>
+        <li>James Kinjanjui.</li>
+        <li>Polly Wanagnanu.</li>
+    </ul>
+    who became the first Directors.
+    Jomka has two branches,Thika office which is the headquater and another office in juja town which serves as the second office.
+    Jomka has 5 employees who help in the daily running of the business.
+    Jomka are located in Thika Town Nellion center 2<sup>nd</sup> Floor Opposite Thika Stadium.</p>
+</div>
+
+<div class="container">
+    <header>
+        <h5><u>Contact Information.</u></h5>
+        <p><span class="orange"><strong>Address:</strong></span> <br>
+                No.1 - 12345 Tom mboya street Thika ,Kenya</p>
+        <p><span class="orange"><strong>Phone:</strong></span> <br>
+                +254 (222)167392<br></p>
+        <p><span class="orange"><strong>email:</strong></span> <br>
+                    info@jomkagency.com<br></p>
+    <p>You can aslo socialize with us on our social media account:
+    <ul>
+        <li>Instagram @Jomka_agency.
+        <li>Twitter @Jomkagency.
+        <li>Facebook-like our @ jomkagency
+        </li>
+    </ul>
+    </header>
+</div>
+<div class="footer">
+    <div id="copyright">By <a href="http://www.kigwa.com" target="_blank">kigwa</a></div>
+ 			Copyright &copy: 2018.
+            <p> <i> <strong> All rights RESERVED </i> </strong> </p>
+    </div>
+</div>
+
+
+</body>
+</html>
