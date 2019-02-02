@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title> Jomka Agency </title>
+<meta charset="UTF-8" />
+</head>
+
+<style>
+body     {
+          back-ground: white;
+          color: black;
+          marging: 0px;
+          padding: 0px;
+          font-size: 1rem;
+          }
+.header {
+         background-color: blue;
+         padding: 20px;
+         text-align: centre;
+         }
+.topnav {
+        overflow: hidden;
+        background-color: #333;
+        }
+.topnav a {
+            float: left;
+            dispaly: block;
+            color: #f2f2f2;
+            text-align: centre;
+            padding: 12px 16px;
+            text-decoration: none;
+            }
+.topnav a:hover {
+                background-color: #ddd;
+                color: pink;
+                }
+</style>
+<body>
+    <h2>JOMKA AGENCY</h2>
+            <div class="topnav">
+                <a href="#">Home.</a>
+                <a href="#">About.</a> 
+                <a href="#">Blog.</a>
+                <a href="#">Contact.</a>
+            </div>
+          
+       <div class="row">
+              <header>
+                <h2>HOME</h2>
+           <p>Welcome to jomka agency websit with thorought the journey.</p>
+              </div>
+        </div>
+
+
+<div class="container">
+    <header>
+        <h2>About</h2>
+          <p><b>Our Vission</b></p>
+             To maintain a condusive environment for tenants and landlors.
+          <p><b>Our Mission</b></p>
+              To set our mark on the high side of the business environment.
+          <p><b>Our Service</b></p>
+        Our service will include;
+                <ol>
+                    <li>Operating Monthly Statements.
+                    <li>Screening of tenants.
+                    <li>Rent collection.
+                    <li>In-house maintenance.
+                    <li>Periodic rental review.
+                    <li>Free advertisement.
+                    <li>Buying and selling of plots.
+                    <li>General Commission Agents.
+                    </li>
+                </ol>
+<p>Jomka was incorporated in the year of 2017 April by its founding Directors;
+    <ul>
+        <li>James Kinjanjui.</li>
+        <li>Polly Wanagnanu.</li>
+    </ul>
+    who became the first Directors.
+    Jomka has two branches,Thika office which is the headquater and another office in juja town which serves as the second office.
+    Jomka has 5 employees who help in the daily running of the business.
+    Jomka are located in Thika Town Nellion center 2<sup>nd</sup> Floor Opposite Thika Stadium.</p>
+</div>
+
+
+<div class="container">
+    <header>
+        <div class="Blog">
+        <h2>Blog</h2>
+        <p>Jomka Agency has been in this industry for a quite sometimes since it was incorparated by James as a result of interesat in that business and since was dealing with buying of plots and later selling them and by this it resulted to him to start by managing plots.
+He has been in that busimess for quite sometimes.</p>
+        </div>
+    </header>    
+</div>
+
+
+<div class="container">
+    <header>
+    <div class="contact">
+       <h2>Contact Information.</h2>
+        <p><span class="orange"><strong>Address:</strong></span> <br>
+                No.1 - 12345 Tom mboya street Thika ,Kenya</p>
+        <p><span class="orange"><strong>Phone:</strong></span> <br>
+                +254 (222)167392<br></p>
+        <p><span class="orange"><strong>email:</strong></span> <br>
+                    info@jomkagency.com<br></p>
+    <p>You can aslo socialize with us on our social media account:
+      <ul>
+          <li>Instagram @Jomka_agency.
+          <li>Twitter @Jomkagency.
+          <li>Facebook-like our @ jomkagency.
+          <li>Linkedin  Jomkagency1.
+          </li>
+      </ul>
+      </header>
+</div>
+
+
+<div class="conatiner">
+    <div class="footer">
+
+        <div class="row">
+            <h5>Information</h5>
+               <ul class="row">
+                    <li a href="about.php">About</a></li>
+                    <li a href="agents.php">Agents</a></li>         
+                    <li a href="blog.php">Blog</a></li>
+                    <li a href="contact.php">Contact</a></li>
+              </ul>
+            </div>
+<div class="col">
+            <h5>Newsletter</h5>
+                <p>Get notified about the latest properties in our marketplace.</p>
+                    <form class="form-inline" role="form">
+                            <input type="text" placeholder="Enter Your email address" class="form-control">
+                                <button class="btn btn-success" type="button">Notify Me!</button></form>
+            </div>
+ <div class="col-lg-3 col-sm-3">
+                    <h2>Follow us</h2>
+                    <a href="#"><img src="images/facebook.png" alt="facebook"></a>
+                    <a href="#"><img src="images/twitter.png" alt="twitter"></a>
+                    <a href="#"><img src="images/linkedin.png" alt="linkedin"></a>
+                    <a href="#"><img src="images/instagram.png" alt="instagram"></a>
+            </div>
+<div class="col-lg-3 col-sm-3">
+                    <h2>Contact us</h2>
+                    <p><b>Ben Kigwa Inc.</b><br>
+<span class="glyphicon glyphicon-map-marker"></span> 441 Kimathi Street, Thika <br>
+<span class="glyphicon glyphicon-envelope"></span> bchege44gmail.com<br>
+<span class="glyphicon glyphicon-earphone"></span> (254) 707-375943</p>
+            </div>
+        </div>
+<p class="copyright">Copyright 2019. All rights reserved.</p>
+
+
+</div>
+
+
+</body>
+</html>
