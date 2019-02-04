@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>THE HOTEL.</title>
+  <meta charset="utf-8">
+</head>
+<style>
+body {
+  background-color: pale;
+}
+.header {
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+}
+</style>
+<body>
+  <div class="container">
+    <h1>THE HOTEL.</h1>
+  </div>
+  <div class="topnav">
+    <ul>
+      <li><a href="index home">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </div>
+<div class="container">
+  <div class="fake img">
+  </div>
+<div class="container">
+  <div id="leftcol">
+  <h2>Quick links</h2>
+  <ul>
+    <li><a href="about.html">About</a></ul>
+    <li><a href="history.html">History</a></ul>
+    <li><a href="gallery.html">Gallery</a></ul>
+    <li><a href="contact.html">contact</a></ul>
+  </ul>
+</div>
+  <div class="box">
+    <h3>Videos.</h3>
+    <p><a href="link-videos.html.fakeimg">
+ </div>
+</div>
+<div id="rightcol">
+  <h4>Welcome.</h4>
+  The hotel was officially opened by his exellence the prime minister in the year 1990.
+  <br>
+  <br>
+  Its amongest the 5-star hotel that we have in the country after it was inspected by the committe on hotels and safety.<br>
+  It serves as a major destination for local and foreign tourist when rhey have visted the coastal area.
+  <br>
+</div>
+
+<div class="container">
+  <h2>Footer</h2>
+  <p class="copyright">Copyright 2019. All rights reserved.</p>
+</body>
+</html>
